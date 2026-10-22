@@ -1,1 +1,5 @@
-Update 2. Still messing around, yep.
+Update 3. A pretty huge update.
+- Modularized client
+- Modularized server
+- Changes to hitboxes
+- Bug fixes + debug mode
